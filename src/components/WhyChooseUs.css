@@ -1,0 +1,25 @@
+/* Add this to your CSS file */
+.why-choose-us {
+    text-align: center;
+    margin: 40px 0;
+  }
+  
+  .why-choose-us .icon {
+    width: 50px;
+    height: 50px;
+    background-color: #3BD166;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: #002f6c;
+  }
+  
+  .why-choose-us .service {
+    display: inline-block;
+    margin: 20px;
+    max-width: 250px;
+  }
+  
+  

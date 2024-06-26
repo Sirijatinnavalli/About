@@ -1,0 +1,33 @@
+.experience-section {
+    background-color: #3DB166;
+    padding: 40px 0;
+    text-align: center;
+  }
+  
+  .experience-section h2 {
+    color: #002f6c;
+    margin-bottom: 20px;
+  }
+  
+  .experience-section .stats {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .experience-section .stat {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  .experience-section .stat .icon {
+    font-size: 48px;
+    color: #002f6c;
+  }
+  
+  .experience-section .stat p {
+    margin: 10px 0 0;
+    color: #002f6c;
+    font-weight: bold;
+  }
+  
